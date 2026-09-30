@@ -1,0 +1,151 @@
+order_id,order_date,customer_id,customer_name,city,category,product,quantity,price,discount,payment_mode,status
+1001,2025-02-27,C101,Customer_2,Mumbai,Mobile,iPhone 15,2,41048,0,UPI,Cancelled
+1002,2025-02-25,C102,Customer_3,Mumbai,Accessories,AirPods,1,8905,20,UPI,Cancelled
+1003,2025-02-26,C103,Customer_4,Nagpur,Laptop,Lenovo Legion,4,76426,20,Debit Card,Delivered
+1004,2025-03-13,C104,Customer_5,Mumbai,Laptop,Lenovo Legion,3,60392,5,Debit Card,Delivered
+1005,2025-03-30,C105,Customer_6,Thane,Mobile,Samsung S24,3,17676,10,UPI,Cancelled
+1006,2025-01-21,C106,Customer_7,Thane,Accessories,Sony Headphones,4,21361,10,Debit Card,Cancelled
+1007,2025-06-19,C107,Customer_8,Mumbai,Laptop,Lenovo Legion,1,14116,10,UPI,Delivered
+1008,2025-06-12,C108,Customer_9,Nashik,Mobile,Samsung S24,4,41434,5,Debit Card,Pending
+1009,2025-06-05,C109,Customer_10,Mumbai,Laptop,Lenovo Legion,1,39993,20,Credit Card,Delivered
+1010,2025-02-26,C110,Customer_11,Nashik,Accessories,Boat Airdopes,5,40382,0,Credit Card,Delivered
+1011,2025-02-24,C111,Customer_12,Thane,Tablet,Samsung Tab S9,1,40093,10,Credit Card,Cancelled
+1012,2025-03-09,C112,Customer_13,Mumbai,Accessories,Boat Airdopes,2,65142,5,Debit Card,Cancelled
+1013,2025-02-26,C113,Customer_14,Mumbai,Accessories,Sony Headphones,3,57350,20,Cash,Delivered
+1014,2025-06-24,C114,Customer_15,Nagpur,Mobile,iPhone 15,2,25033,20,UPI,Pending
+1015,2025-03-06,C115,Customer_16,Thane,Accessories,Sony Headphones,5,66348,0,UPI,Cancelled
+1016,2025-04-22,C116,Customer_17,Mumbai,Tablet,Samsung Tab S9,3,19621,15,UPI,Cancelled
+1017,2025-06-10,C117,Customer_18,Nashik,Tablet,iPad Air,1,71542,20,Credit Card,Delivered
+1018,2025-01-01,C118,Customer_19,Thane,Tablet,iPad Air,5,75697,10,Cash,Delivered
+1019,2025-01-15,C119,Customer_20,Mumbai,Mobile,Samsung S24,2,45306,20,UPI,Delivered
+1020,2025-02-02,C120,Customer_21,Nagpur,Accessories,AirPods,2,74822,20,Credit Card,Pending
+1021,2025-03-21,C121,Customer_22,Nagpur,Accessories,AirPods,2,75686,10,Cash,Cancelled
+1022,2025-01-17,C122,Customer_23,Nashik,Accessories,AirPods,2,37493,0,Credit Card,Cancelled
+1023,2025-02-28,C123,Customer_24,Pune,Laptop,HP Victus,1,14305,0,Debit Card,Delivered
+1024,2025-05-19,C124,Customer_25,Mumbai,Laptop,Dell G15,2,68624,20,Cash,Delivered
+1025,2025-01-25,C125,Customer_26,Nagpur,Accessories,Boat Airdopes,1,29957,10,Cash,Pending
+1026,2025-01-16,C126,Customer_27,Nagpur,Accessories,Sony Headphones,1,12100,10,UPI,Delivered
+1027,2025-02-05,C127,Customer_28,Nagpur,Laptop,HP Victus,4,75292,5,Debit Card,Pending
+1028,2025-01-26,C128,Customer_29,Pune,Laptop,HP Victus,5,63082,20,UPI,Delivered
+1029,2025-05-04,C129,Customer_30,Mumbai,Laptop,HP Victus,4,58269,15,UPI,Delivered
+1030,2025-04-27,C130,Customer_31,Nashik,Accessories,AirPods,3,56173,15,Cash,Delivered
+1031,2025-05-29,C131,Customer_32,Thane,Laptop,Dell G15,1,33534,0,Debit Card,Delivered
+1032,2025-05-16,C132,Customer_33,Mumbai,Mobile,OnePlus 13,5,67493,0,UPI,Delivered
+1033,2025-04-14,C133,Customer_34,Pune,Mobile,OnePlus 13,2,13907,20,Credit Card,Cancelled
+1034,2025-06-18,C134,Customer_35,Thane,Mobile,OnePlus 13,4,15745,20,Debit Card,Pending
+1035,2025-03-09,C135,Customer_36,Nagpur,Laptop,Lenovo Legion,2,46180,5,Debit Card,Pending
+1036,2025-06-09,C136,Customer_37,Thane,Tablet,iPad Air,4,6220,0,UPI,Cancelled
+1037,2025-03-31,C137,Customer_38,Pune,Laptop,Lenovo Legion,2,39760,5,Debit Card,Pending
+1038,2025-06-06,C138,Customer_39,Thane,Laptop,Dell G15,3,76200,0,Debit Card,Cancelled
+1039,2025-01-28,C139,Customer_40,Thane,Mobile,iPhone 15,1,39664,5,Debit Card,Pending
+1040,2025-06-25,C140,Customer_41,Nashik,Laptop,Lenovo Legion,2,49942,20,Cash,Pending
+1041,2025-01-12,C141,Customer_42,Pune,Mobile,iPhone 15,3,60518,10,Credit Card,Cancelled
+1042,2025-06-30,C142,Customer_43,Nagpur,Tablet,iPad Air,5,62912,20,UPI,Delivered
+1043,2025-01-10,C143,Customer_44,Nashik,Mobile,OnePlus 13,5,24536,20,Credit Card,Pending
+1044,2025-01-11,C144,Customer_45,Nashik,Laptop,HP Victus,3,45404,5,Credit Card,Cancelled
+1045,2025-06-08,C145,Customer_46,Mumbai,Mobile,Samsung S24,4,78385,5,Credit Card,Delivered
+1046,2025-04-16,C146,Customer_47,Mumbai,Accessories,AirPods,3,28509,10,Credit Card,Cancelled
+1047,2025-02-26,C147,Customer_48,Mumbai,Mobile,Samsung S24,4,10075,15,Debit Card,Pending
+1048,2025-04-13,C148,Customer_49,Nashik,Laptop,HP Victus,2,8101,10,UPI,Pending
+1049,2025-01-08,C149,Customer_50,Pune,Tablet,Samsung Tab S9,3,75282,10,Credit Card,Cancelled
+1050,2025-04-22,C100,Customer_1,Nashik,Tablet,iPad Air,5,19208,10,Cash,Cancelled
+1051,2025-01-12,C101,Customer_2,Nagpur,Mobile,Samsung S24,3,29914,0,Credit Card,Pending
+1052,2025-03-22,C102,Customer_3,Pune,Accessories,AirPods,5,48279,10,Debit Card,Cancelled
+1053,2025-05-22,C103,Customer_4,Mumbai,Accessories,Boat Airdopes,3,57743,5,Cash,Cancelled
+1054,2025-05-26,C104,Customer_5,Nashik,Accessories,Sony Headphones,5,27810,15,UPI,Pending
+1055,2025-06-05,C105,Customer_6,Nashik,Tablet,iPad Air,5,61346,15,Cash,Pending
+1056,2025-06-18,C106,Customer_7,Pune,Laptop,Lenovo Legion,2,67021,10,Debit Card,Delivered
+1057,2025-02-20,C107,Customer_8,Mumbai,Laptop,Lenovo Legion,2,45687,0,UPI,Delivered
+1058,2025-04-17,C108,Customer_9,Thane,Accessories,Sony Headphones,4,14545,5,Cash,Pending
+1059,2025-01-28,C109,Customer_10,Nagpur,Accessories,AirPods,1,24342,5,Credit Card,Cancelled
+1060,2025-02-01,C110,Customer_11,Nagpur,Accessories,AirPods,2,78060,5,Cash,Cancelled
+1061,2025-05-21,C111,Customer_12,Nagpur,Tablet,Samsung Tab S9,4,71162,5,Cash,Pending
+1062,2025-05-05,C112,Customer_13,Mumbai,Tablet,iPad Air,5,41347,10,Cash,Delivered
+1063,2025-03-23,C113,Customer_14,Thane,Tablet,iPad Air,3,40614,0,Credit Card,Delivered
+1064,2025-01-17,C114,Customer_15,Nagpur,Laptop,Dell G15,2,25028,15,Debit Card,Cancelled
+1065,2025-04-18,C115,Customer_16,Nagpur,Accessories,Boat Airdopes,2,13161,20,UPI,Cancelled
+1066,2025-03-18,C116,Customer_17,Nagpur,Accessories,Boat Airdopes,3,5772,15,Credit Card,Pending
+1067,2025-01-08,C117,Customer_18,Nagpur,Laptop,Dell G15,4,62125,10,Cash,Cancelled
+1068,2025-05-17,C118,Customer_19,Pune,Laptop,Dell G15,5,21728,15,UPI,Delivered
+1069,2025-01-13,C119,Customer_20,Nashik,Accessories,AirPods,2,65515,15,Debit Card,Delivered
+1070,2025-03-13,C120,Customer_21,Nagpur,Accessories,Boat Airdopes,4,49236,10,UPI,Pending
+1071,2025-03-31,C121,Customer_22,Mumbai,Mobile,OnePlus 13,1,75702,0,UPI,Delivered
+1072,2025-02-09,C122,Customer_23,Mumbai,Laptop,HP Victus,5,7671,5,Cash,Cancelled
+1073,2025-06-29,C123,Customer_24,Nashik,Mobile,OnePlus 13,4,33569,10,Credit Card,Cancelled
+1074,2025-05-29,C124,Customer_25,Pune,Mobile,iPhone 15,1,45768,10,Cash,Pending
+1075,2025-06-28,C125,Customer_26,Nashik,Laptop,HP Victus,1,36830,20,UPI,Cancelled
+1076,2025-06-19,C126,Customer_27,Nashik,Mobile,Samsung S24,4,74827,0,Debit Card,Delivered
+1077,2025-04-03,C127,Customer_28,Nagpur,Accessories,Boat Airdopes,4,18833,5,Cash,Delivered
+1078,2025-06-01,C128,Customer_29,Nashik,Tablet,Samsung Tab S9,4,65931,10,Credit Card,Delivered
+1079,2025-05-26,C129,Customer_30,Thane,Tablet,Samsung Tab S9,4,36963,15,Debit Card,Delivered
+1080,2025-02-24,C130,Customer_31,Nashik,Accessories,Boat Airdopes,4,28834,10,Debit Card,Pending
+1081,2025-01-22,C131,Customer_32,Mumbai,Tablet,iPad Air,2,72715,15,Cash,Cancelled
+1082,2025-04-25,C132,Customer_33,Pune,Laptop,Lenovo Legion,4,67402,0,Debit Card,Delivered
+1083,2025-06-19,C133,Customer_34,Thane,Accessories,Sony Headphones,3,36890,10,Cash,Cancelled
+1084,2025-04-01,C134,Customer_35,Nagpur,Tablet,Samsung Tab S9,3,77140,10,Debit Card,Pending
+1085,2025-01-31,C135,Customer_36,Thane,Laptop,HP Victus,3,30242,5,Credit Card,Delivered
+1086,2025-03-14,C136,Customer_37,Pune,Accessories,Boat Airdopes,5,73765,5,Debit Card,Delivered
+1087,2025-05-17,C137,Customer_38,Mumbai,Tablet,iPad Air,1,44618,10,UPI,Delivered
+1088,2025-01-04,C138,Customer_39,Thane,Tablet,iPad Air,1,69340,10,Cash,Pending
+1089,2025-03-06,C139,Customer_40,Nagpur,Accessories,Boat Airdopes,1,29164,0,UPI,Pending
+1090,2025-02-08,C140,Customer_41,Thane,Accessories,AirPods,2,12026,10,UPI,Delivered
+1091,2025-06-02,C141,Customer_42,Thane,Mobile,OnePlus 13,5,59548,5,Cash,Pending
+1092,2025-05-26,C142,Customer_43,Thane,Accessories,Boat Airdopes,3,61207,0,UPI,Delivered
+1093,2025-03-03,C143,Customer_44,Mumbai,Laptop,Dell G15,2,15641,20,UPI,Delivered
+1094,2025-05-01,C144,Customer_45,Nashik,Mobile,Samsung S24,5,64048,0,Credit Card,Pending
+1095,2025-03-09,C145,Customer_46,Thane,Tablet,Samsung Tab S9,2,14329,5,Cash,Delivered
+1096,2025-02-06,C146,Customer_47,Pune,Laptop,Lenovo Legion,3,24528,0,Credit Card,Pending
+1097,2025-06-26,C147,Customer_48,Nashik,Tablet,Samsung Tab S9,4,21299,15,Debit Card,Cancelled
+1098,2025-01-11,C148,Customer_49,Nagpur,Accessories,Boat Airdopes,5,15543,10,Debit Card,Delivered
+1099,2025-05-28,C149,Customer_50,Pune,Mobile,iPhone 15,3,7719,5,Cash,Cancelled
+1100,2025-04-22,C100,Customer_1,Nagpur,Accessories,Boat Airdopes,5,28788,0,Cash,Pending
+1101,2025-02-11,C101,Customer_2,Nashik,Accessories,Boat Airdopes,1,47081,15,Cash,Pending
+1102,2025-01-23,C102,Customer_3,Nashik,Accessories,Sony Headphones,4,9809,10,Debit Card,Delivered
+1103,2025-04-29,C103,Customer_4,Nagpur,Accessories,Sony Headphones,5,5150,0,Credit Card,Cancelled
+1104,2025-02-22,C104,Customer_5,Nashik,Tablet,Samsung Tab S9,1,62939,20,Credit Card,Pending
+1105,2025-01-08,C105,Customer_6,Thane,Accessories,Sony Headphones,1,68532,5,Credit Card,Pending
+1106,2025-02-27,C106,Customer_7,Pune,Mobile,OnePlus 13,1,58476,15,UPI,Cancelled
+1107,2025-06-30,C107,Customer_8,Nashik,Laptop,Dell G15,5,43254,15,Cash,Pending
+1108,2025-04-09,C108,Customer_9,Mumbai,Laptop,Dell G15,2,77255,20,Credit Card,Delivered
+1109,2025-03-10,C109,Customer_10,Pune,Tablet,Samsung Tab S9,5,49548,10,Debit Card,Cancelled
+1110,2025-05-04,C110,Customer_11,Nashik,Accessories,AirPods,5,63529,10,Cash,Pending
+1111,2025-04-09,C111,Customer_12,Mumbai,Tablet,iPad Air,5,36300,15,UPI,Pending
+1112,2025-06-19,C112,Customer_13,Mumbai,Accessories,Sony Headphones,4,54968,15,UPI,Delivered
+1113,2025-05-15,C113,Customer_14,Nagpur,Tablet,iPad Air,1,62711,0,Credit Card,Pending
+1114,2025-03-28,C114,Customer_15,Thane,Laptop,HP Victus,3,66537,15,UPI,Pending
+1115,2025-01-10,C115,Customer_16,Thane,Accessories,Boat Airdopes,5,68956,0,Credit Card,Cancelled
+1116,2025-01-26,C116,Customer_17,Pune,Tablet,iPad Air,4,16846,15,Credit Card,Cancelled
+1117,2025-01-15,C117,Customer_18,Nashik,Tablet,iPad Air,3,11028,10,Debit Card,Pending
+1118,2025-05-25,C118,Customer_19,Mumbai,Laptop,HP Victus,4,74621,5,Credit Card,Delivered
+1119,2025-05-30,C119,Customer_20,Mumbai,Accessories,Sony Headphones,4,36566,5,Cash,Cancelled
+1120,2025-04-30,C120,Customer_21,Nashik,Tablet,Samsung Tab S9,1,38466,20,Credit Card,Delivered
+1121,2025-06-26,C121,Customer_22,Nashik,Accessories,Boat Airdopes,4,44210,15,Debit Card,Delivered
+1122,2025-04-08,C122,Customer_23,Thane,Accessories,Boat Airdopes,2,18979,10,Debit Card,Cancelled
+1123,2025-01-03,C123,Customer_24,Thane,Tablet,iPad Air,3,56879,0,Cash,Pending
+1124,2025-06-12,C124,Customer_25,Mumbai,Laptop,Lenovo Legion,2,51179,20,Debit Card,Cancelled
+1125,2025-03-21,C125,Customer_26,Nagpur,Laptop,Lenovo Legion,1,17735,0,Debit Card,Cancelled
+1126,2025-04-17,C126,Customer_27,Mumbai,Laptop,HP Victus,3,43680,5,Credit Card,Cancelled
+1127,2025-05-04,C127,Customer_28,Nashik,Tablet,Samsung Tab S9,3,26567,10,UPI,Pending
+1128,2025-05-23,C128,Customer_29,Nashik,Mobile,iPhone 15,4,34571,0,Cash,Delivered
+1129,2025-06-22,C129,Customer_30,Nashik,Tablet,iPad Air,3,64609,20,Cash,Cancelled
+1130,2025-01-07,C130,Customer_31,Thane,Tablet,iPad Air,4,35647,20,Debit Card,Cancelled
+1131,2025-06-29,C131,Customer_32,Nashik,Laptop,Lenovo Legion,4,13285,15,UPI,Delivered
+1132,2025-01-30,C132,Customer_33,Pune,Mobile,iPhone 15,4,44893,5,Credit Card,Pending
+1133,2025-05-31,C133,Customer_34,Mumbai,Accessories,Boat Airdopes,4,75804,15,UPI,Pending
+1134,2025-02-25,C134,Customer_35,Nagpur,Accessories,Boat Airdopes,3,9288,15,Credit Card,Pending
+1135,2025-06-15,C135,Customer_36,Nashik,Mobile,OnePlus 13,5,53147,0,Cash,Pending
+1136,2025-06-19,C136,Customer_37,Mumbai,Laptop,HP Victus,1,64600,20,UPI,Delivered
+1137,2025-02-22,C137,Customer_38,Pune,Tablet,iPad Air,5,21505,20,Credit Card,Cancelled
+1138,2025-06-02,C138,Customer_39,Pune,Laptop,HP Victus,2,48064,10,Credit Card,Delivered
+1139,2025-02-03,C139,Customer_40,Pune,Tablet,iPad Air,1,19408,10,Credit Card,Cancelled
+1140,2025-01-14,C140,Customer_41,Mumbai,Tablet,iPad Air,3,27838,15,UPI,Cancelled
+1141,2025-05-12,C141,Customer_42,Thane,Mobile,Samsung S24,3,63756,0,Cash,Cancelled
+1142,2025-03-19,C142,Customer_43,Nagpur,Laptop,Lenovo Legion,5,10683,0,UPI,Pending
+1143,2025-04-24,C143,Customer_44,Pune,Accessories,Boat Airdopes,4,19150,0,Debit Card,Cancelled
+1144,2025-06-09,C144,Customer_45,Thane,Laptop,HP Victus,3,21540,20,Debit Card,Pending
+1145,2025-04-21,C145,Customer_46,Pune,Tablet,Samsung Tab S9,5,71263,0,Credit Card,Pending
+1146,2025-04-27,C146,Customer_47,Nagpur,Accessories,AirPods,3,59239,15,UPI,Pending
+1147,2025-02-09,C147,Customer_48,Nagpur,Accessories,Boat Airdopes,3,38408,0,UPI,Delivered
+1148,2025-02-03,C148,Customer_49,Thane,Mobile,Samsung S24,3,17656,0,Debit Card,Cancelled
+1149,2025-01-14,C149,Customer_50,Nashik,Mobile,Samsung S24,4,51346,20,Debit Card,Pending
+1150,2025-02-09,C100,Customer_1,Nagpur,Mobile,OnePlus 13,2,71507,5,UPI,Pending
