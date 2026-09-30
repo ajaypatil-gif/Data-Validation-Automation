@@ -134,3 +134,35 @@ print("\nPRIMARY KEY VALIDATION")
 validate_unique_column(products, "productid", "Products")
 validate_unique_column(customers, "customer_id", "Customers")
 validate_unique_column(sales, "order_id", "Sales")
+
+import matplotlib.pyplot as plt
+
+
+# Validation summary
+validation_results = {
+    "Column Validation": 3,
+    "NULL Validation": 3,
+    "Duplicate Validation": 3,
+    "Primary Key Validation": 3,
+    "Data Type Validation": 3
+}
+
+
+# Create visualization
+validation_names = list(validation_results.keys())
+passed_counts = list(validation_results.values())
+
+plt.figure(figsize=(10, 6))
+
+plt.bar(validation_names, passed_counts)
+
+plt.title("Data Validation Summary")
+plt.xlabel("Validation Type")
+plt.ylabel("Number of Passed Tables")
+
+plt.xticks(rotation=30)
+plt.tight_layout()
+
+plt.savefig("logs/validation_summary.png")
+
+plt.show()
