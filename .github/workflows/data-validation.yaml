@@ -34,3 +34,9 @@ jobs:
       - name: Run data validation
         run: |
           python src/validate.py
+
+      - name: Upload validation logs
+        uses: actions/upload-artifact@v4
+         with:
+          name: validation-logs
+          path: logs/  

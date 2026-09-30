@@ -166,3 +166,19 @@ plt.tight_layout()
 plt.savefig("logs/validation_summary.png")
 
 plt.show()
+
+import logging
+
+logging.basicConfig(
+    filename="logs/validation.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+logging.info("Data validation started")
+
+
+logging.info("Products validation completed")
+logging.info("Customers validation completed")
+logging.info("Sales validation completed")
+logging.info("Data validation completed")
